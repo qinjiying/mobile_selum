@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<APK_TYPE lan="India">
+    <channel>
+        <key>india_ch001</key>
+        <name>B4U MOVIE</name>
+        <url>https://m.timesofindia.com/tv/channel/b4u-movies/params/tvchannel/channelid-10000000000740000</url>
+    </channel>
+    <channel>
+        <key>india_ch002</key>
+        <name>9XM</name>
+        <url>https://m.timesofindia.com/tv/channel/9xm/params/tvchannel/channelid-10000000003060000</url>
+    </channel>
+    <channel>
+        <key>india_ch003</key>
+        <name>Aaj Tak News</name>
+        <url>https://m.timesofindia.com/tv/channel/aaj-tak/params/tvchannel/channelid-10000000000720000</url>
+    </channel>
+    <channel>
+        <key>india_ch004</key>
+        <name>ABP News</name>
+        <url>https://m.timesofindia.com/tv/channel/abp-news/params/tvchannel/channelid-10000000000180000</url>
+    </channel>
+    <channel>
+        <key>india_ch005</key>
+        <name>B4U Music</name>
+        <url>https://m.timesofindia.com/tv/channel/b4u-music/params/tvchannel/channelid-10000000000730000</url>
+    </channel>
+    <channel>
+        <key>india_ch006</key>
+        <name>COLORS GUJRATI</name>
+        <url>https://m.timesofindia.com/tv/channel/colors-gujarati/params/tvchannel/channelid-10000000000390000</url>
+    </channel>
+    <channel>
+        <key>india_ch007</key>
+        <name>Colors HD</name>
+        <url>https://m.timesofindia.com/tv/channel/colors-hd/params/tvchannel/channelid-10000000007460000</url>
+    </channel>
+    <channel>
+        <key>india_ch008</key>
+        <name>DISCOVERY CHANNEL</name>
+        <url>https://m.timesofindia.com/tv/channel/discovery-channel/params/tvchannel/channelid-10000000000310000</url>
+    </channel>
+    <channel>
+        <key>india_ch009</key>
+        <name>HBO HD</name>
+        <url>https://m.timesofindia.com/tv/channel/hbo/params/tvchannel/channelid-10000000000700000</url>
+    </channel>
+    <channel>
+        <key>india_ch010</key>
+        <name>INDIA TODAY</name>
+        <url>https://m.timesofindia.com/tv/channel/india-today/params/tvchannel/channelid-10000000000810000</url>
+    </channel>
+    <channel>
+        <key>india_ch011</key>
+        <name>Movies OK HD</name>
+        <url>https://m.timesofindia.com/tv/channel/movies-ok/params/tvchannel/channelid-10000000009260000</url>
+    </channel>
+    <channel>
+        <key>india_ch012</key>
+        <name>SONY MAX 2HD</name>
+        <url>https://m.timesofindia.com/tv/channel/sony-max-2/params/tvchannel/channelid-10000000022850000</url>
+    </channel>
+    <channel>
+        <key>india_ch013</key>
+        <name>SONY MAX HD</name>
+        <url>https://m.timesofindia.com/tv/channel/sony-max/params/tvchannel/channelid-10000000000540000</url>
+    </channel>
+    <channel>
+        <key>india_ch014</key>
+        <name>Star Jalsha</name>
+        <url>https://m.timesofindia.com/tv/channel/star-jalsha/params/tvchannel/channelid-10000000004370000</url>
+    </channel>
+    <channel>
+        <key>india_ch015</key>
+        <name>Star Movies HD</name>
+        <url>https://m.timesofindia.com/tv/channel/star-movies-hd/params/tvchannel/channelid-10000000006970000</url>
+    </channel>
+    <channel>
+        <key>india_ch016</key>
+        <name>Star Plus HD</name>
+        <url>https://m.timesofindia.com/tv/channel/star-plus-hd/params/tvchannel/channelid-10000000006010000</url>
+    </channel>
+    <channel>
+        <key>india_ch017</key>
+        <name>STAR SPORTS 2</name>
+        <url>https://m.timesofindia.com/tv/channel/star-sports-2/params/tvchannel/channelid-10000000014200000</url>
+    </channel>
+    <channel>
+        <key>india_ch018</key>
+        <name>Zee Bangla HD</name>
+        <url>https://m.timesofindia.com/tv/channel/zee-bangla/params/tvchannel/channelid-10000000000280000</url>
+    </channel>
+    <channel>
+        <key>india_ch019</key>
+        <name>ZEE BUSINESS NEWS</name>
+        <url>https://m.timesofindia.com/tv/channel/zee-business/params/tvchannel/channelid-10000000001140000</url>
+    </channel>
+    <channel>
+        <key>india_ch020</key>
+        <name>ZEE CINEMA</name>
+        <url>https://m.timesofindia.com/tv/channel/zee-cinema/params/tvchannel/channelid-10000000000210000</url>
+    </channel>
+    <channel>
+        <key>india_ch021</key>
+        <name>ZEE NEWS</name>
+        <url>https://m.timesofindia.com/tv/channel/zee-news/params/tvchannel/channelid-10000000000930000</url>
+    </channel>
+    <channel>
+        <key>india_ch022</key>
+        <name>ZEE TV HD</name>
+        <url>https://m.timesofindia.com/tv/channel/zee-tv-hd/params/tvchannel/channelid-10000000007740000</url>
+    </channel>
+</APK_TYPE>
+</config>
